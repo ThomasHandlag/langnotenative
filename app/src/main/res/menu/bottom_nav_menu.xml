@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="utf-8"?>
+<menu xmlns:android="http://schemas.android.com/apk/res/android">
+
+    <item
+        android:id="@+id/note_nav"
+        android:icon="@drawable/round_notes_24"
+        android:title="@string/title_home" />
+
+    <item
+        android:id="@+id/word_nav"
+        android:icon="@drawable/round_create_24"
+        android:title="@string/title_dashboard" />
+
+    <item
+        android:id="@+id/setting_nav"
+        android:icon="@drawable/round_settings_suggest_24"
+        android:title="@string/settings_title" />
+
+</menu>
