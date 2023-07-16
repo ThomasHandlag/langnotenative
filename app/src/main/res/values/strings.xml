@@ -1,0 +1,23 @@
+<resources>
+    <string name="app_name">langNoteNative</string>
+    <string name="title_home">Day note</string>
+    <string name="title_dashboard">Word note</string>
+    <string name="title_notifications">Settings</string>
+    <string name="str">%s</string>
+    <string name="float_btn_des">Add</string>
+    <string name="subject">Subject</string>
+    <string name="content">Content</string>
+    <string name="word_lb">Word</string>
+    <string name="trans_lb">Translate</string>
+    <string name="type_lb">Type</string>
+    <string name="add">Add</string>
+    <string name="save_lb">Save</string>
+    <string name="btn">Button</string>
+    <string name="share_lb">Share</string>
+    <string name="delete_lb">Delete</string>
+    <string name="more_lb">More</string>
+    <string name="delete_item">Delete (%d) item</string>
+    <string name="cancel_lb">Cancel</string>
+    <string name="all_lb">All</string>
+    <string name="unavailable_function">This function is not implemented</string>
+</resources>
